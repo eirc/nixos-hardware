@@ -9,6 +9,7 @@
     ../../common/gpu/nvidia/ampere
     ../../common/pc/laptop
     ../../common/pc/ssd
+    ../battery.nix
   ];
 
   hardware.nvidia = {
